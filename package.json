@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "milo-md2docx": "^1.1.0",
+    "milo-md2docx": "^1.2.0",
     "milo-parse-markdown": "^1.0.0"
   }
 }
